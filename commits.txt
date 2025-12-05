@@ -1,0 +1,11 @@
+commit 9f77853c12dff5dd16cc769e5c9ab4c2cc34ce54
+Author: Elizabeth Betancour <jannyebetancour@gmail.com>
+Date:   Thu Dec 4 21:28:40 2025 -0500
+
+    feat: new files examples git
+
+commit 3085a7d67e81c4a939e540521df488329907a9af
+Author: Elizabeth Betancour <jannyebetancour@gmail.com>
+Date:   Thu Dec 4 21:14:31 2025 -0500
+
+    new file index.html
