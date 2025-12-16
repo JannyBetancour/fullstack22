@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 crossOriginIsolated.log("experimento");
 console.log("experimento realizado...");
-=======
-crossOriginIsolated.log("experimento")
->>>>>>> origin/ExperimentoRemota
+console.log("experimento realizado local...");
+console.log("experimento realizado local v2...");
